@@ -1,0 +1,2 @@
+recursive-include pyphony/resources *.json
+include LICENSE README.md
