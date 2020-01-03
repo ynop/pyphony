@@ -1,4 +1,7 @@
 # pyphony
+
+[![PyPI](https://img.shields.io/pypi/v/pyphony.svg)](https://pypi.python.org/pypi/pyphony)
+
 A library to work with phone lexica.
 
 * Read and write lexica from/to a file.
